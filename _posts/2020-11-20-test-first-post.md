@@ -2,12 +2,12 @@
 layout: post
 title: This si the header for the first blog post
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/shba_inu_2.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/shba_inu_2.jpg
 tags:
-  - books
-  - test
+  - doges
+  - tests
 published: true
 ---
 
