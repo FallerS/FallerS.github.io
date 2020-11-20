@@ -93,7 +93,7 @@ feed_show_tags: true
 
 # --- Colours / background image --- #
 
-navbar-col: "#8BC6EC" # "#EAEAEA"
+navbar-col: "#8BC6EC"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
