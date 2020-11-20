@@ -16,4 +16,5 @@ published: true
 Inserting a link for [shiba-inu](https://en.wikipedia.org/wiki/Shiba_Inu "Shiba Inu wiki")
 
 Inserting a picture in the post: 
+
 ![images-test](/assets/img/shba_inu_2.jpg)
