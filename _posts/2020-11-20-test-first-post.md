@@ -14,3 +14,6 @@ published: true
 ## First blog about doges
 
 Inserting a link for [shiba-inu](https://en.wikipedia.org/wiki/Shiba_Inu "Shiba Inu wiki")
+
+Inserting a picture in the post: ![]({{site.baseurl}}//assets/img/shba_inu_2.jpg)
+
