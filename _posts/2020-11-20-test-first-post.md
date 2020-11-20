@@ -11,9 +11,7 @@ tags:
 published: true
 ---
 
-## Header
-
-### Header zwo
+## First blog about doges
 
 Inserting a link for [shiba-inu](https://en.wikipedia.org/wiki/Shiba_Inu "Shiba Inu wiki")
 
