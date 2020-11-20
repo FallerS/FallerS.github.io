@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is the header for the first blog post
+title: blog post header
 subtitle: First blog post about doges and tests
 cover-img: /assets/img/shiba.png
 thumbnail-img: /assets/img/shba_inu_2.jpg
