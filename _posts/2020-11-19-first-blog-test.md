@@ -44,6 +44,7 @@ Python:
 
 ```python
 x = 'Hello World'
+
 print(x)
 ```
 
