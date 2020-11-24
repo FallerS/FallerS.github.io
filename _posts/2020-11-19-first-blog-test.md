@@ -46,6 +46,12 @@ Python:
 x = 'Hello World'
 
 print(x)
+
+x = 10
+if x>5:
+	print('no!')
+
+
 ```
 
 
