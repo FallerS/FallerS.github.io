@@ -49,6 +49,7 @@ print(x)
 ```
 
 
+Next test for generic code:
 
 ~~~
 var foo = function(x) {
