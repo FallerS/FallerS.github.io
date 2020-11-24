@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Portfolio Analyst and curious all things Finance & Python
+subtitle: Portfolio Analyst - curious about all things Finance & Python
 published: true
 ---
 
