@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample blog post
+title: Getting some basics out of the way
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge:
