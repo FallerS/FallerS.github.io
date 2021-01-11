@@ -2,7 +2,7 @@
 layout: post
 title: Introduction to this page and basics
 subtitle: Getting the basics out of the way
-<!--cover-img: /assets/img/shiba.png-->
+cover-img: /assets/img/shiba.png
 thumbnail-img: /assets/img/shba_inu_2.jpg
 share-img: /assets/img/shba_inu_2.jpg
 <!--tags:
