@@ -1,6 +1,6 @@
 ---
 layout: post
-title: blog post header
+title: Getting some basics out of the way
 subtitle: First blog post about doges and tests
 cover-img: /assets/img/shiba.png
 thumbnail-img: /assets/img/shba_inu_2.jpg
@@ -11,10 +11,5 @@ tags:
 published: true
 ---
 
-## First blog about doges
+This first blog post serves as basis for the upcoming posts and topics to get some of the very basics out of the way. Most will be done in Python. There are various sources for Python in gerneral ans finance-related topics in specific online, some can be found in the resources of this page. 
 
-Inserting a link for [shiba-inu](https://en.wikipedia.org/wiki/Shiba_Inu "Shiba Inu wiki")
-
-Inserting a picture in the post: 
-
-![images-test](/assets/img/shba_inu_2.jpg)
