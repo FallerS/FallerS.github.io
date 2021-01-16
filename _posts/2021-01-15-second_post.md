@@ -1,7 +1,7 @@
 ---
 layout: post
-title: post_2_testen
-subtitle: checking
+title: Risk measurement functions and building the analysis module
+subtitle: Getting the basics out of the way II
 published: True
 ---
 
