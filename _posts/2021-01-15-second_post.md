@@ -385,9 +385,9 @@ summary_stats(ind[['Smoke', 'Fin', 'Food']])
 
 ## Building the Module fin_pack
 We can easily manage all the functions from blog post 1 and this blog post if we integrate them in one module and import this module for future usage.
-All functions will be saved in one .py file which we will name fin_pack.
-We can import this package at the beginning of our work to get access to the functions. Remember to include all dependencies like pandas, numpy... in the module
-e.g. **import fin_pack as fipa** allows us to use the summary function and all other functions as **fipa.summary_stats(ind[['Smoke', 'Fin', 'Food']])**
+All functions will be saved in one .py file which we will name fin_pack.Remember to include all dependencies like pandas, numpy etc.
+
+We can import the package  fin_pack at the beginning of our work to get access to the functions. in the module, e.g. **import fin_pack as fipa** allows us to use the summary function and all other functions as **fipa.summary_stats(ind[['Smoke', 'Fin', 'Food']])**
 
 When actively working, updating and testing the module with Jupyter Notebook, the fllowing magic commands can be added in the notebook to get updated results when changing the package:
 **%load_ext autoreload**
