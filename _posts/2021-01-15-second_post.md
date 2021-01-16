@@ -58,7 +58,7 @@ drawdown(ind['Smoke'])['Drawdown'].plot.line()
 
 
 
-![png](assets/img/2021-01-15-second_post_files/output_5_1.png)
+![png](/assets/img/2021-01-15-second_post_files/output_5_1.png)
 
 
 ```python
@@ -200,7 +200,7 @@ Computes VaR based on mean and standard deviation, adjusting the result by z-sco
 With [Cornish-Fisher modification](https://en.wikipedia.org/wiki/Cornish%E2%80%93Fisher_expansion), we can modify the z-score based on historic skewness and kurtosis 
 
 
-![png](assets/img/2021-01-15-second_post_files/output-cornish-fisher.png)
+![png](/assets/img/2021-01-15-second_post_files/output-cornish-fisher.png)
 
 
 
@@ -275,7 +275,7 @@ var_comparison.plot.bar(title="Different industries: VaR at 5%")
 
 
 
-![png](assets/img/2021-01-15-second_post_files/output_28_1.png)
+![png](/assets/img/2021-01-15-second_post_files/output_28_1.png)
 
 
 ```python
