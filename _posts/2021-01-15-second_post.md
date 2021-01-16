@@ -5,14 +5,12 @@ subtitle: Getting the basics out of the way II
 published: True
 ---
 
-# General functions part II
-
-
-
 the second blog-post will provide more basic functions for risk measurement. In teh end we will combine everything to get a basic analysis tool for return series. 
 Most of these basics rely on the online courses by [Edhec Risk Institute](https://risk.edhec.edu/who-we-are) which can be found on [Coursera](https://www.coursera.org/specializations/investment-management-python-machine-learning). I can only recommend taking these courses as much of the content is free to access without payment. 
 Some of the functions will include functions which were defined in the first blog post.
 For more information on the monthly industry returns data and the returns- and distribution functions see als blog post I
+
+# General functions part II
 
 ```python
 # import packages
