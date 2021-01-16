@@ -1,13 +1,9 @@
 ---
 layout: post
-title: Test for jupyter notebook transformation
-subtitle: checking
+title: Basic returns and distibution functions
+subtitle: Getting the basics out of the way I
 published: True
 ---
-
-# Data-source
-
-
 
 The first two blog posts will serve as basis for the upcoming posts and topics to get some of the very basics out of the way. 
 General Python and finance knowledge is assumed. There are also various sources for Pythong in general and finance-related topicsn in specific online, some can be found in the resources of this blog. 
@@ -27,6 +23,7 @@ import pandas as pd
 import numpy as np
 import scipy.stats
 ```
+# Data-source
 
 We will be using part of [Kenneth R. Frenchs data library](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html), specifically the 30 Industry Portfolios.csv file.
 The file includes several datasets one after the next in the samle sheet based on weighting schemes. We will be working with the value-weighted dataset which begins with row 12 for the indusries and ends based in the last update somewhere in 2020111 or row 1145+. simply copy this dataset, first row being the industries, in a separate csv-file with the name ind30_m_valueweight_rets.csv.  
