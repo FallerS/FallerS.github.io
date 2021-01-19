@@ -1,3 +1,10 @@
+---
+layout: post
+title: Portfolio Construction and Optimization
+subtitle: Efficient frontier and CML
+published: True
+---
+
 This blog post with explain some of the general portfolio construction topics. How should the investments optimally be weighted in the contruction step? Which role does the covariance between these investments play and how can we use it to our advantage?
 
 This post will assume some knowledge of these topics and implement them in a Python framework. Let's start!
