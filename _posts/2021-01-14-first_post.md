@@ -6,7 +6,7 @@ published: True
 ---
 
 The first two blog posts will serve as basis for the upcoming posts and topics to get some of the very basics out of the way. 
-General Python and finance knowledge is assumed. There are also various sources for Pythong in general and finance-related topicsn in specific online, some can be found in the resources of this blog. 
+General Python and finance knowledge is assumed. There are also various sources for Pythong in general and finance-related topics in specific online, some can be found in the resources of this blog. 
 
 Let's start with the very basics which we will be using in the following posts on more interesting topics: 
 * data and data-source
