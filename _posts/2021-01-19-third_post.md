@@ -526,7 +526,7 @@ optimal_weights(10,er[i], cov.loc[i,i], df=True)
 
 
 
-Lets plot the efficient frontier considering all of the industries at our disposal
+Lets plot the efficient frontier considering **all** of the industries at our disposal
 
 ```python
 plot_ef(n_points=50, er=er, cov=cov, style='.-', legend=True)
