@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Risk measurement and creating the analysis model
+title: Risk measurement and creating the analysis module
 subtitle: Getting the basics out of the way II
 published: True
 ---
