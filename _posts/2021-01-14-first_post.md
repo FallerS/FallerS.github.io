@@ -8,14 +8,12 @@ published: True
 The first two blog posts will serve as basis for the upcoming posts and topics to get some of the very basics out of the way. 
 General Python and finance knowledge is assumed. There are also various sources for Pythong in general and finance-related topicsn in specific online, some can be found in the resources of this blog. 
 
-Most of these basics rely on the online courses by [Edhec Risk Institute](https://risk.edhec.edu/who-we-are) which can be found on [Coursera](https://www.coursera.org/specializations/investment-management-python-machine-learning). I can only recommend taking these courses as much of the content is free to access without payment. 
-
 Let's start with the very basics which we will be using in the following posts on more interesting topics: 
 * data and data-source
 * packages and basic functions we will be using 
 
 Some of the functions build on each other. The functions will be used in later posts with a short notice of this post.
-At the end of the two blog-posts, we will have a simple package of functions to provide a basic analysis for returns series. 
+At the end of the two blog-posts, we will pack all these functions in one module so we can access it for further work.
 
 ```python
 # packages used for these functions
