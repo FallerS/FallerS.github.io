@@ -701,7 +701,7 @@ plot_ef(n_points=20, er=er, cov=cov, style='.-', legend=True, riskfree_rate = 0.
 
 
 In this post we implemented the efficient frontier for our dataset which provides us with the weightings for the optimal return per risk. 
-We leverage the covariance between our investments to remome any unsystematic risk which does not provide additional return benefits. 
+We leverage the covariance between our investments to remove any unsystematic risk which does not provide additional return benefits. 
 
 We then include the capital market line as the line between the tangent portfolio with the highest return / risk ratio and the riskfree investment. An investor can purcahse this portfolio and the riskfree investment to satisfy its risk appetite and still benefit from the highest possible return per risk, outclassing the options on the efficient frontier. 
 
