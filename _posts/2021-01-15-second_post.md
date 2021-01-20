@@ -198,7 +198,7 @@ On average the loss in the Smoke industry is 15,22% based on the conditions list
 
 ### Parametric Gaussian VaR
 Computes VaR based on mean and standard deviation, adjusting the result by z-score based on predefined level. Normal distribution is assumed. 
-With [Cornish-Fisher modification](https://en.wikipedia.org/wiki/Cornish%E2%80%93Fisher_expansion), we can modify the z-score based on historic skewness and kurtosis 
+With [Cornish-Fisher modification](https://en.wikipedia.org/wiki/Cornish%E2%80%93Fisher_expansion), we can modify the z-score based on historic skewness and kurtosis. 
 
 
 ![png](/assets/img/2021-01-15-second_post_files/output-cornish-fisher.png)
