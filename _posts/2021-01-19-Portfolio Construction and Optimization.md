@@ -636,7 +636,7 @@ We just did some important steps! We found the efficient frontier and its tangen
 We can always start with the tangent portfolio and mix in the riskfree investment at the riskfree rate. This way we walk along the capital market line and get the highest return for any defined risk. 
 
 ## Global Minimum Variance Portfolio
-We will add one more possible portfolio in the grapghic. There is one portfolio which is not dependent on estimating any returns because returns are not needed as input parameter. 
+We will add one more possible portfolio in the graphic. There is one portfolio which is not dependent on estimating any returns because returns are not needed as input parameter. 
 As we saw earlier, small deviations in expected returns lead to a large shift in the weightings. If we are just a bit off on our returns expectation to future realized returns, then our weightings are far from optimal. We can circumvent this by not using returns as input, and only estimating the covariance.  
 
 The global minimum variance portfolio is not dependent on estimated returns. 
