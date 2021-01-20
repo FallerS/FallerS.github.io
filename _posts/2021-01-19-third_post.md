@@ -370,6 +370,7 @@ def plot_ef(n_points, er, cov, style='.-', legend=False):
 We will use some additional industries:
 
 ```python
+# industries
 i = ['Hlth', 'Rtail', 'Beer']
 #hist. annual returns as expt. returns
 er[i]
