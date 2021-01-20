@@ -7,7 +7,7 @@ published: true
 
 The second blog-post will provide more functions for risk measurement. At the end of this post, we will combine everything to get a basic analysis tool for return series. 
 Some of the functions will include functions which were defined in the first blog post.
-For more information on the monthly industry returns data and the returns- and distribution functions see als blog post I
+For more information on the monthly industry returns data and the returns- and distribution functions see als [blog post I](https://fallers.github.io/01.14.2021-first_post/)
 
 # General functions part II
 
