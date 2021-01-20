@@ -25,6 +25,7 @@ ind = ind[:"2018"]
 ind.columns = ind.columns.str.strip()
 ```
 
+
 ### Drawdown
 The drawdown function provides a time-series, as well as local and global drawdown for a given pandas time series: 
 
