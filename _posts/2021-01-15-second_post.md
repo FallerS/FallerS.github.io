@@ -128,7 +128,7 @@ There are different ways to measure VaR.
 
 ### Historic VaR
 We want the lowest 5% of returns in our historic dataset. 
-We will leverage the already existing np.percentile
+We will leverage the already existing np.percentile. 
 
 ```python
 def var_historic(r, level=5):
