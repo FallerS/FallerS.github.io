@@ -152,7 +152,7 @@ def minimize_vol(target_return, er, cov):
 
 ```
 
-Lets do a short testcase
+Lets do a short testcase:
 
 ```python
 er[['Smoke', 'Fin']]
