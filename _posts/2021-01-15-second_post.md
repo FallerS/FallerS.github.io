@@ -10,6 +10,7 @@ Some of the functions will include functions which were defined in the first blo
 For more information on the monthly industry returns data and the returns- and distribution functions see als [blog post I](https://fallers.github.io/01.14.2021-first_post/). 
 
 # General functions part II
+### Load and prepare data
 
 ```python
 # import packages
