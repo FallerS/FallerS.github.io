@@ -111,7 +111,7 @@ def portfolio_return(weights, returns):
 def portfolio_vol(weights, covmat):
     """
     Computes the vol of a portfolio from a covariance matrix and constituent weights
-    weights are a numpy array or N x 1 maxtrix and covmat is an N x N matrix
+    Weights are a numpy array or N x 1 maxtrix and covmat is an N x N matrix
     """
     return (weights.T @ covmat @ weights)**0.5
 ```
