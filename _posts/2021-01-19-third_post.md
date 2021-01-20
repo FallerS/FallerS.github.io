@@ -526,6 +526,7 @@ optimal_weights(10,er[i], cov.loc[i,i], df=True)
 </table>
 </div>
 
+The weightings again move very fast to extreme outcomes. 
 
 
 Lets plot the efficient frontier considering **all** of the industries at our disposal. 
