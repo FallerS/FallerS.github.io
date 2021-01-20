@@ -63,7 +63,7 @@ print(ind.head())
 
 ## Efficient frontier
 We want to find the combination of assets (here: industry portfolios) that grant the highest exp. return for a given risk level or the lowest risk for a defined exp. return level.
-We will need expected returns and a covariance matrix to get the efficient frontier. Let's work with historical results for now so we don't have to approach the estaimation of input parameters and its associated problems in this post. 
+We will need expected returns and a covariance matrix to get the efficient frontier. Let's work with historical results for now so we don't have to approach the estimation of input parameters and its associated problems in this post. 
 
 ```python
 # create historicals return series which we will use as expected returns for this post
