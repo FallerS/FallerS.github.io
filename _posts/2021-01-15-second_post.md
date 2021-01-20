@@ -211,7 +211,7 @@ def var_gaussian(r, level=5, modified=False):
     Returns the Parametric Gaussian VaR
     If "modified" is True, then the modified VaR is returned,
     using the Cornish-Fisher modification
-    Takes pandas DataFrame or Series
+    Takes pandas DataFrame or Series of returns
     """
     # compute the Z score assuming it was Gaussian
     z = norm.ppf(level/100)
