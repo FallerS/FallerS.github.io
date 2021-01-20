@@ -330,6 +330,8 @@ The weightings noticeably change to extreme results very fast as the target retu
 
 For now lets formalize our results for future work and do another example with more than two industries. 
 
+We will add a function to plot the efficient frontier which provides us with the best return per risk ratio based on our current approach to optimize the weightings. 
+
 ```python
 # based on our lines of code before:
 def optimal_weights(n_points, er, cov, df=False):
