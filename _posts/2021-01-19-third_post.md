@@ -367,7 +367,7 @@ def plot_ef(n_points, er, cov, style='.-', legend=False):
     return ax
 ```
 
-Let's try this with some other industries:
+We will use some additional industries:
 
 ```python
 i = ['Hlth', 'Rtail', 'Beer']
