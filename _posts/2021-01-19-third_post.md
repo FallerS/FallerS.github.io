@@ -101,7 +101,7 @@ First organize a framework for portfolio returns and volatility.
 def portfolio_return(weights, returns):
     """
     Computes the return on a portfolio from returns and weights
-    weights are a numpy array or Nx1 matrix and returns are a numpy array or Nx1 matrix
+    Weights are a numpy array or Nx1 matrix and returns are a numpy array or Nx1 matrix
     """
     #leveraging @ for matrix multiplication
     return weights.T @ returns
