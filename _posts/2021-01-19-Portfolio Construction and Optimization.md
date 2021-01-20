@@ -703,6 +703,6 @@ plot_ef(n_points=20, er=er, cov=cov, style='.-', legend=True, riskfree_rate = 0.
 In this post we implemented the efficient frontier for our dataset which provides us with the weightings for the optimal return per risk. 
 We leverage the covariance between our investments to remove any unsystematic risk which does not provide additional return benefits. 
 
-We then include the capital market line as the line between the tangent portfolio with the highest return / risk ratio and the riskfree investment. An investor can purcahse this portfolio and the riskfree investment to satisfy its risk appetite and still benefit from the highest possible return per risk, outclassing the options on the efficient frontier. 
+We then include the capital market line as the line between the tangent portfolio with the highest return / risk ratio and the riskfree investment. An investor can purchase a combination of this portfolio and the riskfree investment to satisfy its risk appetite and still benefit from the highest possible return per risk, outclassing the options on the efficient frontier. 
 
 We also includes the Global Minimum Variance portfolio wich is not the optimal portfolio in term to reward per risk but has the benefit of not needing any expected returns. We have seen that the weightings significantly skew to extreme results with only small deviations from the expected returns. The GMV portfolio bypasses the problem of estimating returns (incorrectly) since it only needs the (expected) covariance as input parameter.
