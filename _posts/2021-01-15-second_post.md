@@ -123,8 +123,8 @@ semideviation(ind[['Smoke', 'Fin']])*100
 
 
 ## Value at Risk
-We want to estimate, how much a investments might lose given a predefined probability, and given normal market conditions, in a set time period
-There are different ways to measure VaR
+We want to estimate, how much a investments might lose given a predefined probability, and given normal market conditions, in a set time period. 
+There are different ways to measure VaR. 
 
 ### Historic VaR
 We want the lowest 5% of returns in our historic dataset. 
