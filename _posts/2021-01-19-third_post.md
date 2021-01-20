@@ -2,7 +2,7 @@
 layout: post
 title: Portfolio Construction and Optimization
 subtitle: Efficient frontier and CML
-published: True
+published: true
 ---
 
 This blog post with explain some of the general portfolio construction topics. How should the investments optimally be weighted in the contruction step? Which role does the covariance between these investments play and how can we use it to our advantage?
@@ -16,7 +16,7 @@ See also [blog post I](https://fallers.github.io/01.14.2021-first_post/) for det
 # import modules needed
 import pandas as pd
 import numpy as np
-# import the prepared modfule from blog post 1 & 2
+# import the prepared module from blog post 1 & 2
 import fin_pack as fipa
 
 # load data
