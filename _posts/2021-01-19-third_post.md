@@ -326,7 +326,7 @@ df
 
 
 These results show on a 2-asset case the weighting development when targeting a range of returns.
-The weighting noticeably change to extreme results very fast as the target returns change from ca 10% to 13%. This tendency to extreme weightings with only very small changes in (expected) returns will be a significant problem. 
+The weightings noticeably change to extreme results very fast as the target returns change from ca 10% to 13%. This tendency to extreme weightings with only very small changes in (expected) returns will be a significant problem. 
 
 For now lets formalize our results for future work and illustrate them as a graph.
 
