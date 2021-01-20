@@ -329,8 +329,7 @@ These results show on a 2-asset case the weighting development when targeting a 
 The weightings noticeably change to extreme results very fast as the target returns change from ca 10% to 13%. This tendency to extreme weightings with only very small changes in (expected) returns will be a significant problem. 
 
 For now lets formalize our results for future work and do another example with more than two industries. 
-
-We will add a function to plot the efficient frontier which provides us with the best return per risk ratio based on our current approach to optimize the weightings. 
+We will also add a function to plot the efficient frontier. 
 
 ```python
 # based on our lines of code before:
