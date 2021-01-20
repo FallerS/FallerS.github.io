@@ -280,6 +280,9 @@ var_comparison.plot.bar(title="Different industries: VaR at 5%")
 ![png](/assets/img/2021-01-15-second_post_files/output_28_1.png)
 
 
+### Summary results function
+Lets combine the functions we defined in this and the last post for one summary statement we can use on a returns series. 
+
 ```python
 def summary_stats(r, riskfree_rate=0.02):
     """
