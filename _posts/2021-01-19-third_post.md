@@ -328,7 +328,7 @@ df
 These results show on a 2-asset case the weighting development when targeting a range of returns.
 The weightings noticeably change to extreme results very fast as the target returns change from ca 10% to 13%. This tendency to extreme weightings with only very small changes in (expected) returns will be a significant problem. 
 
-For now lets formalize our results for future work and illustrate them as a graph.
+For now lets formalize our results for future work and do another example with more than two industries. 
 
 ```python
 # based on our lines of code before:
@@ -367,7 +367,7 @@ def plot_ef(n_points, er, cov, style='.-', legend=False):
     return ax
 ```
 
-We will use some additional industries:
+
 
 ```python
 # industries
