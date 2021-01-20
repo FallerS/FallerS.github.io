@@ -165,7 +165,7 @@ sharpe_ratio(r=ind['Smoke'], riskfree_rate=0.02, periods_per_year=12)
 The annualized share ratio of the Smoke industry assuming a riskfree rate of 2% was appr. 0,5.
 
 ### Skewness
-Negative skew results in more negative returns as would be expected cmopared to a normal distribution
+Negative skew results in more negative returns as would be expected cmopared to a normal distribution. 
 
 ```python
 # alternatively scipy can be used: scipy.stats.skew()
