@@ -168,7 +168,7 @@ Provides an average of returns in the VaR-case
 def cvar_historic(r, level=5):
     """
     Computes the Conditional VaR 
-    Takes pandas DataFrame or Series
+    Takes pandas DataFrame or Series of returns
     """
     if isinstance(r, pd.Series):
         # mask to identify all returns which are below the threshold 
