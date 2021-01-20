@@ -7,7 +7,7 @@ published: true
 
 This blog post with explain some of the general portfolio construction topics. How should the investments optimally be weighted in the contruction step? Which role does the covariance between these investments play and how can we use it to our advantage? How to implement it in Python?
 
-Some knowledge in finance and Python is already needed follow this post. Let's start!
+Let's start!
 
 ## Importing and checking the dataset
 See also [blog post I](https://fallers.github.io/01.14.2021-first_post/) for details on the data. 
