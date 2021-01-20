@@ -118,7 +118,7 @@ def portfolio_vol(weights, covmat):
 
 We will add these functions to our fipa module from the last blog post. 
 
-We now want the weightings for a given set of investments (industry portfolios) which minimizes the risk for a given exp. portfolio return
+We now want the weightings for a given set of investments (industry portfolios) which minimizes the risk for a given exp. portfolio return. 
 We will use scypis [optimizer](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.minimize.html) to do this. 
 
 ```python
