@@ -367,7 +367,7 @@ def plot_ef(n_points, er, cov, style='.-', legend=False):
     return ax
 ```
 
-
+Show the weightings development for other industries:
 
 ```python
 # industries
