@@ -95,7 +95,7 @@ cov.shape
 
 
 
-First organize a framework for portfolio returns and volatility
+First organize a framework for portfolio returns and volatility. 
 
 ```python
 def portfolio_return(weights, returns):
