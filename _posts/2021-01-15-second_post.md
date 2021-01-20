@@ -135,7 +135,7 @@ def var_historic(r, level=5):
     """
     Returns the historic Value at Risk at a specified level
     If not explicitely defined, level = 5%
-    Takes pandas DataFrame or Series
+    Takes pandas DataFrame or Series of returns
     """
     if isinstance(r, pd.DataFrame):
         return r.aggregate(var_historic, level=level)
