@@ -530,7 +530,7 @@ optimal_weights(10,er[i], cov.loc[i,i], df=True)
 The weightings again move very fast to extreme outcomes. This is something we will have to address in future blog posts. 
 
 
-For now, lets plot the efficient frontier considering **all** of the industries at our disposal. 
+For now, let's plot the efficient frontier considering **all** of the industries at our disposal. 
 
 The efficient frontier shows the optimal weightings out of all possible combinations of industries we could invest in in terms of either choose a defined risk budget and get the best possible returns or choose a return goal and get the least risk. 
 
