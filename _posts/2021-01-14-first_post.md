@@ -133,7 +133,7 @@ The annualized volatility of the Smoke industry data was appr. 20.12%.
 
 ### Sharpe Ratio
 Calculates the sharpe ratio on an annual basis. 
-Unrealistic assumption to have the same riskfree rate for the complete time horizon but we are starting small :)
+Some unrealistic assumption like having the same riskfree rate for the complete time horizon but we are starting small :)
 
 ```python
 def sharpe_ratio(r, riskfree_rate, periods_per_year):
