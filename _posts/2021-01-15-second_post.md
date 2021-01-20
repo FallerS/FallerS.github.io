@@ -254,7 +254,7 @@ var_gaussian(r=ind[['Smoke', 'Food']]['1995':'2018'], modified=True)*100
 
 
 
-Both VaR-Versions are pretty close to our historic VaR results
+Both VaR-Versions are pretty close to our historic VaR results. 
 
 We can plot a comparison for these VaR-approaches for some more industries:
 
