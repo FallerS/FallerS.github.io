@@ -95,7 +95,7 @@ Identify the volatility of only negative returns since we don't want to specify 
 def semideviation(r):
     """
     Returns negative (semi)deviation of returns series
-    r must be a Series or a DataFrame
+    Takes a pandas DataFrame or Series of returns
     """
     if isinstance(r, pd.Series):
         # mask to identify the negative returns 
