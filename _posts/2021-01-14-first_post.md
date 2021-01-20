@@ -195,7 +195,7 @@ skewness(ind['Smoke'])
 
 ### Kurtosis
 Relates to "fatness" of tails compared to normal distributuion. Fatter tails describe more extreme outcomes as would be expected compared to a normal distribution as can be often seen with stock investments. 
-Normal distribution has a kurtosis of 3, so a kurtosis > 3 related to fat tails
+Normal distribution has a kurtosis of 3, so a kurtosis > 3 related to fat tails. 
 
 ```python
 # alternatively scipy can be used: scipy.stats.kurtosis()
