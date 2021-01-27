@@ -10,6 +10,7 @@ This blog post will approach some of the general portfolio construction topics. 
 Some finance and Python knowledge is needed to follow. Let's start!
 
 ## Importing and checking the dataset
+We're using Fama's returns series on industry portfolios. 
 See also [blog post I](https://fallers.github.io/01.14.2021-first_post/) for details on the data. 
 
 ```python
