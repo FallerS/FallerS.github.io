@@ -81,7 +81,7 @@ print(ind.head())
 
 # General functions part I
 ## Returns and its distribution
-Following is the first part of the general functions to analyse return series.
+Following is the first part of the general functions to analyze return series.
 Part I will consist of functions related to returns and its distribution.
 Part II in the follow-up blogpost will provide more content for measuring risk in particular. 
 
