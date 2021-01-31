@@ -533,7 +533,7 @@ The weightings again move very fast to extreme outcomes. This is something we wi
 
 For now, let's plot the efficient frontier considering **all** of the industries at our disposal. 
 
-The efficient frontier shows the optimal weightings out of all possible combinations of industries we could invest in in terms of either choose a defined risk budget and get the best possible returns or choose a return goal and get the least risk. 
+The efficient frontier shows the optimal weightings out of all possible combinations of industries we could invest in terms of either choose a defined risk budget and get the best possible returns or choose a return goal and get the least risk. 
 
 ```python
 plot_ef(n_points=50, er=er, cov=cov, style='.-', legend=True)
