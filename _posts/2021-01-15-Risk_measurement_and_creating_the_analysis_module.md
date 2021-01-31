@@ -123,7 +123,7 @@ semideviation(ind[['Smoke', 'Fin']])*100
 
 
 ## Value at Risk
-We want to estimate, how much a investments might lose given a predefined probability, and given normal market conditions, in a set time period. 
+We want to estimate, how much an investments might lose given a predefined probability, and given normal market conditions, in a set time period. 
 There are different ways to measure VaR. 
 
 ### Historic VaR
