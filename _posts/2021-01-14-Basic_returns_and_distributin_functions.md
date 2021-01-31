@@ -24,7 +24,7 @@ import scipy.stats
 # Data-source
 
 We will be using part of [Kenneth R. Frenchs data library](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html), specifically the 30 Industry Portfolios.csv file.
-The file includes several datasets one after the next in the same sheet based on weighting schemes. We will be working with the value-weighted dataset which begins with row 12 for the industries and ends based in the last update somewhere in 11.2020 or row 1145+. simply copy this dataset, first row being the industries, in a separate csv-file with the name ind30_m_valueweight_rets.csv.  
+The file includes several datasets one after the next in the same sheet based on weighting schemes. We will be working with the value-weighted dataset which begins with row 12 for the industries and ends based in the last update somewhere in 11.2020 or row 1145+. Simply copy this dataset, first row being the industries, in a separate csv-file with the name ind30_m_valueweight_rets.csv.  
 
 Load and adjust the data to make it more convenient to work with and take a look at the data. 
 the file path may need to be adjusted depending where the .csv file is stored. 
