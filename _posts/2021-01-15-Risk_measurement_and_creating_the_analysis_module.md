@@ -161,7 +161,7 @@ var_historic(ind[['Smoke', 'Food']]['1995':'2018'])*100
 
 Based on 5 years of data from 1995 - 2018, in 5% of all cases, loose at least appr. 9,95% in Smoke industries investment
 
-### Conditional Value at Risk / expeced shortfall
+### Conditional Value at Risk / expected shortfall
 Provides an average of returns in the VaR-case
 
 ```python
