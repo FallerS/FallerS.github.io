@@ -45,7 +45,7 @@ def drawdown(return_series: pd.Series):
                          "Drawdown": drawdowns})
 ```
 
-We can easily look up the series for one of our industry portfolios and check for the drawdowns in this time or look up the maximum dardown and time of this drawdown.
+We can easily look up the series for one of our industry portfolios and check for the drawdowns in this time or look up the maximum drawdown and time of this drawdown.
 
 ```python
 drawdown(ind['Smoke'])['Drawdown'].plot.line()
