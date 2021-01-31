@@ -132,7 +132,7 @@ def minimize_vol(target_return, er, cov):
     Takes a set of expected returns and a covariance matrix
     """
     n = er.shape[0]
-    # specification of init guess is not essential, another intial guess to start minimization also works
+    # specification of init_guess is not essential, another initial guess to start minimization also works
     init_guess = np.repeat(1/n, n)
     bounds = ((0.0, 1.0),) * n # an N-tuple of 2-tuples! First bound defines investment weighting between 0 and 1, no shorting!
     # construct the constraints
