@@ -226,7 +226,7 @@ minimize_vol(target_return=0.115, er=er[['Smoke', 'Fin']], cov=cov.loc[['Smoke',
 
 
 
-Targeting a return of 11,5%, we would weight our portfolio with ca. 54% of Smoke and 46% Financials industries
+Targeting a return of 11,5%, we would weight our portfolio with ca. 54% of Smoke and 46% Financials industries. 
 
 Next, we want to use the minimizer for a range of returns to get the optimal weights:
 
@@ -369,7 +369,7 @@ def plot_ef(n_points, er, cov, style='.-', legend=False):
     return ax
 ```
 
-Show the weightings development for other industries:
+Shows the weightings development for other industries:
 
 ```python
 # industries
@@ -533,7 +533,7 @@ The weightings again move very fast to extreme outcomes. This is something we wi
 
 For now, let's plot the efficient frontier considering **all** of the industries at our disposal. 
 
-The efficient frontier shows the optimal weightings out of all possible combinations of industries we could invest in terms of either choose a defined risk budget and get the best possible returns or choose a return goal and get the least risk. 
+The efficient frontier shows the optimal weightings out of all possible combinations of industries we could invest in terms of either choosing a defined risk budget and getting the best possible returns or choosing a return goal and getting the least risk. 
 
 ```python
 plot_ef(n_points=50, er=er, cov=cov, style='.-', legend=True)
@@ -588,7 +588,7 @@ def msr(riskfree_rate, er, cov):
 
 ```
 
-Lets visualize the max SR point and the riskfree portfolio by adding additional options to our show_ef function
+Lets visualize the max SR point and the riskfree portfolio by adding additional options to our show_ef function. 
 
 ```python
 def plot_ef(n_points, er, cov, style='.-', legend=False, riskfree_rate=0, show_cml=False):
