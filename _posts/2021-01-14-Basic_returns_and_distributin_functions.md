@@ -258,4 +258,4 @@ is_normal(ind[['Smoke', 'Fin']])
 No surprise, the return series is not normally distributed (as already shown with the kurtosis). 
 We can also add additional columns / industries for this function thanks to the aggregate method
 
-The next blog-post will provide additional functions for risk-measurement and combine the results of boths posts in one function to analyse return series!
+The next blog-post will provide additional functions for risk-measurement and combine the results of boths posts in one function to analyze return series!
