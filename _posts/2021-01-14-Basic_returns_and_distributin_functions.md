@@ -225,7 +225,7 @@ kurtosis(ind['Smoke'])
 
 ### Test for Normality: Jarque-Bera
 The [Jarque-Bera test](https://en.wikipedia.org/wiki/Jarque%E2%80%93Bera_test) to test if returns series is normally distributed. 
-Provides p-value for acceptance of test for normal distribution
+Provides p-value for acceptance of test for normal distribution. 
 
 ```python
 def is_normal(r, level=0.01):
@@ -256,6 +256,6 @@ is_normal(ind[['Smoke', 'Fin']])
 
 
 No surprise, the return series is not normally distributed (as already shown with the kurtosis). 
-We can also add additional columns / industries for this function thanks to the aggregate method
+We can also add additional columns / industries for this function thanks to the aggregate method. 
 
 The next blog-post will provide additional functions for risk-measurement and combine the results of boths posts in one function to analyze return series!
