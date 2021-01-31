@@ -89,7 +89,7 @@ drawdown(ind['Smoke'])['Drawdown'].idxmin()
 The maximum drawdown until end of 2018 for Smoke was -59.88% on 2000-02.
 
 ### Semideviation
-Identify the volatility of only negative returns since we don't want to specify upside movement as risk
+Identify the volatility of only negative returns since we don't want to specify upside movement as risk. 
 
 ```python
 def semideviation(r):
